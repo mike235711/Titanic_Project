@@ -1,4 +1,4 @@
-# Titanic Project [FINISHED]
+# Titanic Project [Finished]
 
 The aim of this project is to implement and explain various tasks that are common in data science projects. The titanic dataset is ideal for my aim since apart from being fun to work with, it has numeric and categorical data. We will use pandas to deal with the data, we will also use Tensorflow and Scikit Learn to build the ML models and evaluate them. 
 
